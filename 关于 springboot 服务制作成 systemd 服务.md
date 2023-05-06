@@ -56,13 +56,13 @@ sudo systemctl start my-spring-boot-app
 sudo systemctl status my-spring-boot-app
 ```
 
-6、停止服务
+##### 6、停止服务
 
 ```shell
 sudo systemctl stop my-spring-boot-app
 ```
 
-7、设置服务自启动和禁止自启动
+##### 7、设置服务自启动和禁止自启动
 
 ```shell
 sudo systemctl enable my-spring-boot-app   #设置服务自启动
